@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Navbar {
+    font-family: 'Georgia',Times New Roman, Times, serif;
+    background: #5EEED1;
+    background: linear-gradient(135deg, #5EEED1, #966F99);
+    padding-left: 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.links {
+    margin-left: 100px;
+}
+
+.links>.link {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.links>.link:hover {
+    color: #966F99;
+}

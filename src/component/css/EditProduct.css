@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.editProduct{
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.editProduct>.form{
+    margin-top: 50px;
+    width: 400px;
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
+
+.editProduct>.form>input{
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.editProduct>.form>.btn{
+    background-color: green;
+    color: white;
+}
+.editProduct>.form>.btn:hover{
+    background-color: rgb(97, 189, 97);
+}

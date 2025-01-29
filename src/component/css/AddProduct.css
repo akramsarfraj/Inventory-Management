@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.addProduct{
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    align-items: center;
+}
+.addProduct>.form{
+    margin-top: 50px;
+    width: 400px;
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
+
+.addProduct>.form>input{
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.addProduct>.form>.btn{
+    background-color: green;
+    color: white;
+}
+.addProduct>.form>.btn:hover{
+    background-color: rgb(97, 189, 97);
+}
+.message{
+    margin-top: 10px;
+    width: 400px;
+}

@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "id": "2a11",
+      "name": "Redmin laptop",
+      "category": "Electronics",
+      "stock": "19",
+      "unit_price": "42000",
+      "date": "2025-01-15"
+    },
+    {
+      "id": "12ca",
+      "name": "Blanket",
+      "category": "Home ",
+      "stock": "10",
+      "unit_price": "160",
+      "date": "2025-01-23"
+    },
+    {
+      "id": "a043",
+      "name": "LG TV",
+      "category": "Electronic",
+      "stock": "9",
+      "unit_price": "",
+      "date": ""
+    }
+  ]
+}

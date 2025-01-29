@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.inventoryTable{
+    padding: 20px;
+}
+
+.btn-e{
+    border: 1px solid blue;
+    border-radius: 2px;
+    width: 50px;
+    
+    background-color: rgb(205, 205, 238);
+}
+.btn-d{
+    border: 1px solid red;
+    border-radius: 2px;
+    width: 50px;
+    
+    background-color: rgb(250, 166, 183);
+}
+.sort-section{
+    padding: 20px;
+    width: 200px;
+}
+.btn-select{
+    background-color: rgb(194, 192, 192);
+    color:white;
+    border-radius: 2px ;
+    border: none;
+    width: 40px;
+    height: 20px;
+    font-size: smaller;
+}
+.btn-select:hover{
+    background-color: gainsboro;
+    transform: scale(1.2);
+}
