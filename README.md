@@ -13,4 +13,5 @@ to save data in db,json file
 ### `json-server --watch src\db\db.json --port portnumber`
 To run the json server 
 
-![Uploading Screenshot 2025-01-29 153904.png…]()
+
+![home page](https://github.com/user-attachments/assets/467d2eeb-b390-4430-97bd-f11d88c8fa7f)
